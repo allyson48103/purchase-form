@@ -76,7 +76,7 @@ form label[for=mastercard] {
 
 /* This is the code you should have students write*/
 /*** BEGIN HERE ***/
-label, input{
+form label, input{
 	display: block;
 	width: 85%;
 }
